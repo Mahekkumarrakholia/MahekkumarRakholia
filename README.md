@@ -1,2 +1,2 @@
-# MahekkumarRakholia.github.io
+# MahekkumarRakholia
 Portfolio GitHub Repo
